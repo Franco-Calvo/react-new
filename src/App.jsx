@@ -1,4 +1,6 @@
 import './App.css'
+import mongoose from 'mongoose'
+
 import LayoutMain from './Layouts/LayoutMain/LayoutMain'
 import ButtonIndex from './components/ButtonIndex/ButtonIndex'
 
